@@ -1,0 +1,48 @@
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+}
+
+.heading {
+    background-color: cornsilk;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sanju {
+
+    background-image: url(/Instagram_logo_2016.svg.webp);
+
+}
+
+#para {
+
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'DynaPuff', cursive;
+    font-style: initial;
+
+}
+
+
+#one {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    border: 3px solid red;
+}
+
+#two {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    border: 3px solid red;
+    border-top: 3px solid blue;
+    border-left: 3px solid green;
+    border-bottom: 3px solid orange;
+
+
+}
+
+
